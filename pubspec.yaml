@@ -12,11 +12,11 @@ flutter:
     platforms:
       android:
         package: com.leverage.location
-        pluginClass: LocationPlugin
+        pluginClass: LocationPluginLever
       ios:
-        pluginClass: LocationPlugin
+        pluginClass: LocationPluginLever
       macos:
-        pluginClass: LocationPlugin
+        pluginClass: LocationPluginLever
       web:
         default_package: location_web
 
