@@ -1,8 +1,8 @@
-group 'com.leverage.location'
+group 'com.lyokone.location'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.4.20'
+    ext.kotlin_version = '1.6.20'
     repositories {
         google()
         mavenCentral()
@@ -20,7 +20,7 @@ rootProject.allprojects {
         mavenCentral()
     }
 }
- 
+
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
