@@ -20,7 +20,7 @@ rootProject.allprojects {
         mavenCentral()
     }
 }
-
+ 
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
